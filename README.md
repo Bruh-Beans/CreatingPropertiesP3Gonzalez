@@ -1,0 +1,2 @@
+# CreatingPropertiesP3Gonzalez
+greateing properties
